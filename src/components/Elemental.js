@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { elementals } from './data';
 
 
-class Element extends Component {
+class Elemental extends Component {
     state = {
         hover: false
     }
@@ -35,4 +35,4 @@ class Element extends Component {
     }
 }
 
-export default Element
+export default Elemental
