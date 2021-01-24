@@ -51,8 +51,34 @@ module.exports = {
             symbol: 'He',
             xpos: 18,
             ypos: 1,
-        shells: [2]
-
+            shells: [2]
+        },
+        {
+            name: 'Lithium',
+            appearance: 'silvery-white',
+            atomic_mass: 6.94,
+            boil: 1603,
+            category: 'alkali metal',
+            color: null,
+            density: 0.534,
+            discovered_by: 'Johan August Arfwedson',
+            melt: 453.65,
+            molar_heat: 24.86,
+            named_by: null,
+            number: 3,
+            period: 2,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Lithium',
+            spectral_img: null,
+            summary:
+                'Lithium (from Greek:\u03bb\u03af\u03b8\u03bf\u03c2 lithos, "stone") is a chemical element with the symbol Li and atomic number 3. It is a soft, silver-white metal belonging to the alkali metal group of chemical elements. Under standard conditions it is the lightest metal and the least dense solid element.',
+            symbol: 'Li',
+            xpos: 1,
+            ypos: 2,
+            shells: [2, 1]
+        },
+        {
+            
         }
 
 
