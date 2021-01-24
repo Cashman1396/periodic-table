@@ -21,7 +21,7 @@ class Elemental extends Component {
 
     render() {
         let { num } = this.props;
-        let element = elements[num]
+        let element = elementals[num]
         return (
             <div
             title={element.name} onMouseEnter={this.onMouseEnter}
