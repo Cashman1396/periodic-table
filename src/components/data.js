@@ -78,6 +78,30 @@ module.exports = {
             shells: [2, 1]
         },
         {
+            name: 'Beryllium',
+            appearance: 'white-gray metallic',
+            atomic_mass: 9.01218315,
+            boil: 2742,
+            category: 'alkaline earth metal',
+            color: null,
+            density: 1.85,
+            discovered_by: 'Louis Nicolas Vauquelin',
+            melt: 1560,
+            molar_heat: 16.443,
+            named_by: null,
+            number: 4,
+            period: 2,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Beryllium',
+            spectral_img: null,
+            summary:
+                'Beryllium is a chemical element with symbol Be and atomic number 4. It is created through stellar nucleosynthesis and is a relatively rare element in the universe. It is a divalent element which occurs naturally only in combination with other elements in minerals.',
+            symbol: 'Be',
+            xpos: 2,
+            ypos: 2,
+            shells: [2, 2]
+        },
+        {
             
         }
 
