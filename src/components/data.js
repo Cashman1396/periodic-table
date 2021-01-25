@@ -102,7 +102,28 @@ module.exports = {
             shells: [2, 2]
         },
         {
-            
+            name: 'Boron',
+            appearance: 'black-brown',
+            atomic_mass: 10.81,
+            boil: 4200,
+            category: 'metalloid',
+            color: null,
+            density: 2.08,
+            discovered_by: 'Joseph Louis Gay-Lussac',
+            melt: 2349,
+            molar_heat: 11.087,
+            named_by: null,
+            number: 5,
+            period: 2,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Boron',
+            spectral_img: null,
+            summary:
+                "Boron is a metalloid chemical element with symbol B and atomic number 5. Produced entirely by cosmic ray spallation and supernovae and not by stellar nucleosynthesis, it is a low-abundance element in both the Solar system and the Earth's crust. Boron is concentrated on Earth by the water-solubility of its more common naturally occurring compounds, the borate minerals.",
+            symbol: 'B',
+            xpos: 13,
+            ypos: 2,
+            shells: [2, 3]
         }
 
 
