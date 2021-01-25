@@ -124,7 +124,34 @@ module.exports = {
             xpos: 13,
             ypos: 2,
             shells: [2, 3]
-        }
+        },
+        {
+            name: 'Carbon',
+            appearance: null,
+            atomic_mass: 12.011,
+            boil: null,
+            category: 'polyatomic nonmetal',
+            color: null,
+            density: 1.821,
+            discovered_by: 'Ancient Egypt',
+            melt: null,
+            molar_heat: 8.517,
+            named_by: null,
+            number: 6,
+            period: 2,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Carbon',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Carbon_Spectra.jpg',
+            summary:
+                'Carbon (from Latin:carbo "coal") is a chemical element with symbol C and atomic number 6. On the periodic table, it is the first (row 2) of six elements in column (group) 14, which have in common the composition of their outer electron shell. It is nonmetallic and tetravalent\u2014making four electrons available to form covalent chemical bonds.',
+            symbol: 'C',
+            xpos: 14,
+            ypos: 2,
+            shells: [2, 4]
+
+
+
+        },
 
 
     ]
