@@ -148,10 +148,31 @@ module.exports = {
             xpos: 14,
             ypos: 2,
             shells: [2, 4]
-
-
-
         },
+        {
+            name: 'Nitrogen',
+            appearance: 'colorless gas, liquid or solid',
+            atomic_mass: 14.007,
+            boil: 77.355,
+            category: 'diatomic nonmetal',
+            color: null,
+            density: 1.251,
+            discovered_by: 'Daniel Rutherford',
+            melt: 63.15,
+            molar_heat: null,
+            named_by: 'Jean-Antoine Chaptal',
+            number: 7,
+            period: 2,
+            phase: 'Gas',
+            source: 'https://en.wikipedia.org/wiki/Nitrogen',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Nitrogen_Spectra.jpg',
+            summary:
+                'Nitrogen is a chemical element with symbol N and atomic number 7. It is the lightest pnictogen and at room temperature, it is a transparent, odorless diatomic gas. Nitrogen is a common element in the universe, estimated at about seventh in total abundance in the Milky Way and the Solar System.',
+            symbol: 'N',
+            xpos: 15,
+            ypos: 2,
+            shells: [2, 5] 
+        }
 
 
     ]
