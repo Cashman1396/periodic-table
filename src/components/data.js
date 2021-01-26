@@ -415,6 +415,31 @@ module.exports = {
             ypos: 3,
             shells: [2, 8, 7]
           },
+          {
+            name: 'Argon',
+            appearance:
+              'colorless gas exhibiting a lilac/violet glow when placed in a high voltage electric field',
+            atomic_mass: 39.9481,
+            boil: 87.302,
+            category: 'noble gas',
+            color: null,
+            density: 1.784,
+            discovered_by: 'Lord Rayleigh',
+            melt: 83.81,
+            molar_heat: null,
+            named_by: null,
+            number: 18,
+            period: 3,
+            phase: 'Gas',
+            source: 'https://en.wikipedia.org/wiki/Argon',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Argon_Spectrum.png',
+            summary:
+              "Argon is a chemical element with symbol Ar and atomic number 18. It is in group 18 of the periodic table and is a noble gas. Argon is the third most common gas in the Earth's atmosphere, at 0.934% (9,340 ppmv), making it over twice as abundant as the next most common atmospheric gas, water vapor (which averages about 4000 ppmv, but varies greatly), and 23 times as abundant as the next most common non-condensing atmospheric gas, carbon dioxide (400 ppmv), and more than 500 times as abundant as the next most common noble gas, neon (18 ppmv).",
+            symbol: 'Ar',
+            xpos: 18,
+            ypos: 3,
+            shells: [2, 8, 8]
+          },
 
 
     ]
