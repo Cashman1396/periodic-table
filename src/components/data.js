@@ -390,6 +390,31 @@ module.exports = {
             ypos: 3,
             shells: [2, 8, 6]
           },
+          {
+            name: 'Chlorine',
+            appearance: 'pale yellow-green gas',
+            atomic_mass: 35.45,
+            boil: 239.11,
+            category: 'diatomic nonmetal',
+            color: null,
+            density: 3.2,
+            discovered_by: 'Carl Wilhelm Scheele',
+            melt: 171.6,
+            molar_heat: null,
+            named_by: null,
+            number: 17,
+            period: 3,
+            phase: 'Gas',
+            source: 'https://en.wikipedia.org/wiki/Chlorine',
+            spectral_img:
+              'https://en.wikipedia.org/wiki/File:Chlorine_spectrum_visible.png',
+            summary:
+              'Chlorine is a chemical element with symbol Cl and atomic number 17. It also has a relative atomic mass of 35.5. Chlorine is in the halogen group (17) and is the second lightest halogen following fluorine.',
+            symbol: 'Cl',
+            xpos: 17,
+            ypos: 3,
+            shells: [2, 8, 7]
+          },
 
 
     ]
