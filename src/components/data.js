@@ -318,6 +318,30 @@ module.exports = {
             ypos: 3,
             shells: [2, 8, 3]
           },
+          {
+            name: 'Silicon',
+            appearance: 'crystalline, reflective with bluish-tinged faces',
+            atomic_mass: 28.085,
+            boil: 3538,
+            category: 'metalloid',
+            color: null,
+            density: 2.329,
+            discovered_by: 'J\u00f6ns Jacob Berzelius',
+            melt: 1687,
+            molar_heat: 19.789,
+            named_by: 'Thomas Thomson (chemist)',
+            number: 14,
+            period: 3,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Silicon',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Silicon_Spectra.jpg',
+            summary:
+              "Silicon is a chemical element with symbol Si and atomic number 14. It is a tetravalent metalloid, more reactive than germanium, the metalloid directly below it in the table. Controversy about silicon's character dates to its discovery.",
+            symbol: 'Si',
+            xpos: 14,
+            ypos: 3,
+            shells: [2, 8, 4]
+          },
 
 
     ]
