@@ -197,6 +197,30 @@ module.exports = {
             ypos: 2,
             shells: [2, 6]
           },
+          {
+            name: 'Fluorine',
+            appearance: null,
+            atomic_mass: 18.9984031636,
+            boil: 85.03,
+            category: 'diatomic nonmetal',
+            color: null,
+            density: 1.696,
+            discovered_by: 'Andr\u00e9-Marie Amp\u00e8re',
+            melt: 53.48,
+            molar_heat: null,
+            named_by: 'Humphry Davy',
+            number: 9,
+            period: 2,
+            phase: 'Gas',
+            source: 'https://en.wikipedia.org/wiki/Fluorine',
+            spectral_img: null,
+            summary:
+              'Fluorine is a chemical element with symbol F and atomic number 9. It is the lightest halogen and exists as a highly toxic pale yellow diatomic gas at standard conditions. As the most electronegative element, it is extremely reactive:almost all other elements, including some noble gases, form compounds with fluorine.',
+            symbol: 'F',
+            xpos: 17,
+            ypos: 2,
+            shells: [2, 7]
+          },
 
 
     ]
