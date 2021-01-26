@@ -246,6 +246,30 @@ module.exports = {
             ypos: 2,
             shells: [2, 8]
           },
+          {
+            name: 'Sodium',
+            appearance: 'silvery white metallic',
+            atomic_mass: 22.989769282,
+            boil: 1156.09,
+            category: 'alkali metal',
+            color: null,
+            density: 0.968,
+            discovered_by: 'Humphry Davy',
+            melt: 370.944,
+            molar_heat: 28.23,
+            named_by: null,
+            number: 11,
+            period: 3,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Sodium',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Sodium_Spectra.jpg',
+            summary:
+              'Sodium /\u02c8so\u028adi\u0259m/ is a chemical element with symbol Na (from Ancient Greek \u039d\u03ac\u03c4\u03c1\u03b9\u03bf) and atomic number 11. It is a soft, silver-white, highly reactive metal. In the Periodic table it is in column 1 (alkali metals), and shares with the other six elements in that column that it has a single electron in its outer shell, which it readily donates, creating a positively charged atom - a cation.',
+            symbol: 'Na',
+            xpos: 1,
+            ypos: 3,
+            shells: [2, 8, 1]
+          },
 
 
     ]
