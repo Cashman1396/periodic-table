@@ -221,6 +221,31 @@ module.exports = {
             ypos: 2,
             shells: [2, 7]
           },
+          {
+            name: 'Neon',
+            appearance:
+              'colorless gas exhibiting an orange-red glow when placed in a high voltage electric field',
+            atomic_mass: 20.17976,
+            boil: 27.104,
+            category: 'noble gas',
+            color: null,
+            density: 0.9002,
+            discovered_by: 'Morris Travers',
+            melt: 24.56,
+            molar_heat: null,
+            named_by: null,
+            number: 10,
+            period: 2,
+            phase: 'Gas',
+            source: 'https://en.wikipedia.org/wiki/Neon',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Neon_spectra.jpg',
+            summary:
+              'Neon is a chemical element with symbol Ne and atomic number 10. It is in group 18 (noble gases) of the periodic table. Neon is a colorless, odorless, inert monatomic gas under standard conditions, with about two-thirds the density of air.',
+            symbol: 'Ne',
+            xpos: 18,
+            ypos: 2,
+            shells: [2, 8]
+          },
 
 
     ]
