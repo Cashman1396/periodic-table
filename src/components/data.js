@@ -342,6 +342,54 @@ module.exports = {
             ypos: 3,
             shells: [2, 8, 4]
           },
+          {
+            name: 'Phosphorus',
+            appearance: 'colourless, waxy white, yellow, scarlet, red, violet, black',
+            atomic_mass: 30.9737619985,
+            boil: null,
+            category: 'polyatomic nonmetal',
+            color: null,
+            density: 1.823,
+            discovered_by: 'Hennig Brand',
+            melt: null,
+            molar_heat: 23.824,
+            named_by: null,
+            number: 15,
+            period: 3,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Phosphorus',
+            spectral_img: null,
+            summary:
+              'Phosphorus is a chemical element with symbol P and atomic number 15. As an element, phosphorus exists in two major forms\u2014white phosphorus and red phosphorus\u2014but due to its high reactivity, phosphorus is never found as a free element on Earth. Instead phosphorus-containing minerals are almost always present in their maximally oxidised state, as inorganic phosphate rocks.',
+            symbol: 'P',
+            xpos: 15,
+            ypos: 3,
+            shells: [2, 8, 5]
+          },
+          {
+            name: 'Sulfur',
+            appearance: 'lemon yellow sintered microcrystals',
+            atomic_mass: 32.06,
+            boil: 717.8,
+            category: 'polyatomic nonmetal',
+            color: null,
+            density: 2.07,
+            discovered_by: 'Ancient china',
+            melt: 388.36,
+            molar_heat: 22.75,
+            named_by: null,
+            number: 16,
+            period: 3,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Sulfur',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Sulfur_Spectrum.jpg',
+            summary:
+              'Sulfur or sulphur (see spelling differences) is a chemical element with symbol S and atomic number 16. It is an abundant, multivalent non-metal. Under normal conditions, sulfur atoms form cyclic octatomic molecules with chemical formula S8.',
+            symbol: 'S',
+            xpos: 16,
+            ypos: 3,
+            shells: [2, 8, 6]
+          },
 
 
     ]
