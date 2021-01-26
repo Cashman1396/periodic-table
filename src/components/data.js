@@ -270,6 +270,30 @@ module.exports = {
             ypos: 3,
             shells: [2, 8, 1]
           },
+          {
+            name: 'Magnesium',
+            appearance: 'shiny grey solid',
+            atomic_mass: 24.305,
+            boil: 1363,
+            category: 'alkaline earth metal',
+            color: null,
+            density: 1.738,
+            discovered_by: 'Joseph Black',
+            melt: 923,
+            molar_heat: 24.869,
+            named_by: null,
+            number: 12,
+            period: 3,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Magnesium',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Magnesium_Spectra.jpg',
+            summary:
+              'Magnesium is a chemical element with symbol Mg and atomic number 12. It is a shiny gray solid which bears a close physical resemblance to the other five elements in the second column (Group 2, or alkaline earth metals) of the periodic table:they each have the same electron configuration in their outer electron shell producing a similar crystal structure. Magnesium is the ninth most abundant element in the universe.',
+            symbol: 'Mg',
+            xpos: 2,
+            ypos: 3,
+            shells: [2, 8, 2]
+          },
 
 
     ]
