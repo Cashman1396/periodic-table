@@ -172,7 +172,31 @@ module.exports = {
             xpos: 15,
             ypos: 2,
             shells: [2, 5] 
-        }
+        },
+        {
+            name: 'Oxygen',
+            appearance: null,
+            atomic_mass: 15.999,
+            boil: 90.188,
+            category: 'diatomic nonmetal',
+            color: null,
+            density: 1.429,
+            discovered_by: 'Carl Wilhelm Scheele',
+            melt: 54.36,
+            molar_heat: null,
+            named_by: 'Antoine Lavoisier',
+            number: 8,
+            period: 2,
+            phase: 'Gas',
+            source: 'https://en.wikipedia.org/wiki/Oxygen',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Oxygen_spectre.jpg',
+            summary:
+              'Oxygen is a chemical element with symbol O and atomic number 8. It is a member of the chalcogen group on the periodic table and is a highly reactive nonmetal and oxidizing agent that readily forms compounds (notably oxides) with most elements. By mass, oxygen is the third-most abundant element in the universe, after hydrogen and helium.',
+            symbol: 'O',
+            xpos: 16,
+            ypos: 2,
+            shells: [2, 6]
+          },
 
 
     ]
