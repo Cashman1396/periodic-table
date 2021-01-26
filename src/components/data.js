@@ -440,6 +440,30 @@ module.exports = {
             ypos: 3,
             shells: [2, 8, 8]
           },
+          {
+            name: 'Potassium',
+            appearance: 'silvery gray',
+            atomic_mass: 39.09831,
+            boil: 1032,
+            category: 'alkali metal',
+            color: null,
+            density: 0.862,
+            discovered_by: 'Humphry Davy',
+            melt: 336.7,
+            molar_heat: 29.6,
+            named_by: null,
+            number: 19,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Potassium',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Potassium_Spectrum.jpg',
+            summary:
+              'Potassium is a chemical element with symbol K (derived from Neo-Latin, kalium) and atomic number 19. It was first isolated from potash, the ashes of plants, from which its name is derived. In the Periodic table, potassium is one of seven elements in column (group) 1 (alkali metals):they all have a single valence electron in their outer electron shell, which they readily give up to create an atom with a positive charge - a cation, and combine with anions to form salts.',
+            symbol: 'K',
+            xpos: 1,
+            ypos: 4,
+            shells: [2, 8, 8, 1]
+          },
 
 
     ]
