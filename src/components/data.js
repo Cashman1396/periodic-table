@@ -294,6 +294,30 @@ module.exports = {
             ypos: 3,
             shells: [2, 8, 2]
           },
+          {
+            name: 'Aluminium',
+            appearance: 'silvery gray metallic',
+            atomic_mass: 26.98153857,
+            boil: 2743,
+            category: 'post-transition metal',
+            color: null,
+            density: 2.7,
+            discovered_by: null,
+            melt: 933.47,
+            molar_heat: 24.2,
+            named_by: 'Humphry Davy',
+            number: 13,
+            period: 3,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Aluminium',
+            spectral_img: null,
+            summary:
+              "Aluminium (or aluminum; see different endings) is a chemical element in the boron group with symbol Al and atomic number 13. It is a silvery-white, soft, nonmagnetic, ductile metal. Aluminium is the third most abundant element (after oxygen and silicon), and the most abundant metal, in the Earth's crust.",
+            symbol: 'Al',
+            xpos: 13,
+            ypos: 3,
+            shells: [2, 8, 3]
+          },
 
 
     ]
