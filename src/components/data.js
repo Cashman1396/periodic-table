@@ -464,7 +464,7 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 8, 1]
           },
-          
+
           {
             name: 'Calcium',
             appearance: null,
@@ -537,6 +537,31 @@ module.exports = {
             xpos: 4,
             ypos: 4,
             shells: [2, 8, 10, 2]
+          },
+
+          {
+            name: 'Vanadium',
+            appearance: 'blue-silver-grey metal',
+            atomic_mass: 50.94151,
+            boil: 3680,
+            category: 'transition metal',
+            color: null,
+            density: 6.0,
+            discovered_by: 'Andr\u00e9s Manuel del R\u00edo',
+            melt: 2183,
+            molar_heat: 24.89,
+            named_by: 'Isotopes of vanadium',
+            number: 23,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Vanadium',
+            spectral_img: null,
+            summary:
+              'Vanadium is a chemical element with symbol V and atomic number 23. It is a hard, silvery grey, ductile and malleable transition metal. The element is found only in chemically combined form in nature, but once isolated artificially, the formation of an oxide layer stabilizes the free metal somewhat against further oxidation.',
+            symbol: 'V',
+            xpos: 5,
+            ypos: 4,
+            shells: [2, 8, 11, 2]
           },
 
 
