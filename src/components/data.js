@@ -614,6 +614,56 @@ module.exports = {
             shells: [2, 8, 13, 2]
           },
 
+          {
+            name: 'Iron',
+            appearance: 'lustrous metallic with a grayish tinge',
+            atomic_mass: 55.8452,
+            boil: 3134,
+            category: 'transition metal',
+            color: null,
+            density: 7.874,
+            discovered_by: '5000 BC',
+            melt: 1811,
+            molar_heat: 25.1,
+            named_by: null,
+            number: 26,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Iron',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Iron_Spectrum.jpg',
+            summary:
+              "Iron is a chemical element with symbol Fe (from Latin:ferrum) and atomic number 26. It is a metal in the first transition series. It is by mass the most common element on Earth, forming much of Earth's outer and inner core.",
+            symbol: 'Fe',
+            xpos: 8,
+            ypos: 4,
+            shells: [2, 8, 14, 2]
+          },
+
+          {
+            name: 'Cobalt',
+            appearance: 'hard lustrous gray metal',
+            atomic_mass: 58.9331944,
+            boil: 3200,
+            category: 'transition metal',
+            color: 'metallic gray',
+            density: 8.9,
+            discovered_by: 'Georg Brandt',
+            melt: 1768,
+            molar_heat: 24.81,
+            named_by: null,
+            number: 27,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Cobalt',
+            spectral_img: null,
+            summary:
+              "Cobalt is a chemical element with symbol Co and atomic number 27. Like nickel, cobalt in the Earth's crust is found only in chemically combined form, save for small deposits found in alloys of natural meteoric iron. The free element, produced by reductive smelting, is a hard, lustrous, silver-gray metal.",
+            symbol: 'Co',
+            xpos: 9,
+            ypos: 4,
+            shells: [2, 8, 15, 2]
+          },
+
 
     ]
 }
