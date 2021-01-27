@@ -488,6 +488,30 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 8, 2]
           },
+          {
+            name: 'Scandium',
+            appearance: 'silvery white',
+            atomic_mass: 44.9559085,
+            boil: 3109,
+            category: 'transition metal',
+            color: null,
+            density: 2.985,
+            discovered_by: 'Lars Fredrik Nilson',
+            melt: 1814,
+            molar_heat: 25.52,
+            named_by: null,
+            number: 21,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Scandium',
+            spectral_img: null,
+            summary:
+              'Scandium is a chemical element with symbol Sc and atomic number 21. A silvery-white metallic d-block element, it has historically been sometimes classified as a rare earth element, together with yttrium and the lanthanoids. It was discovered in 1879 by spectral analysis of the minerals euxenite and gadolinite from Scandinavia.',
+            symbol: 'Sc',
+            xpos: 3,
+            ypos: 4,
+            shells: [2, 8, 9, 2]
+          },
 
 
     ]
