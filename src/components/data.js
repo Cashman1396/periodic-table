@@ -464,6 +464,7 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 8, 1]
           },
+          
           {
             name: 'Calcium',
             appearance: null,
@@ -511,6 +512,31 @@ module.exports = {
             xpos: 3,
             ypos: 4,
             shells: [2, 8, 9, 2]
+          },
+
+          {
+            name: 'Titanium',
+            appearance: 'silvery grey-white metallic',
+            atomic_mass: 47.8671,
+            boil: 3560,
+            category: 'transition metal',
+            color: null,
+            density: 4.506,
+            discovered_by: 'William Gregor',
+            melt: 1941,
+            molar_heat: 25.06,
+            named_by: 'Martin Heinrich Klaproth',
+            number: 22,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Titanium',
+            spectral_img: null,
+            summary:
+              'Titanium is a chemical element with symbol Ti and atomic number 22. It is a lustrous transition metal with a silver color, low density and high strength. It is highly resistant to corrosion in sea water, aqua regia and chlorine.',
+            symbol: 'Ti',
+            xpos: 4,
+            ypos: 4,
+            shells: [2, 8, 10, 2]
           },
 
 
