@@ -464,6 +464,30 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 8, 1]
           },
+          {
+            name: 'Calcium',
+            appearance: null,
+            atomic_mass: 40.0784,
+            boil: 1757,
+            category: 'alkaline earth metal',
+            color: null,
+            density: 1.55,
+            discovered_by: 'Humphry Davy',
+            melt: 1115,
+            molar_heat: 25.929,
+            named_by: null,
+            number: 20,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Calcium',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Calcium_Spectrum.png',
+            summary:
+              "Calcium is a chemical element with symbol Ca and atomic number 20. Calcium is a soft gray alkaline earth metal, fifth-most-abundant element by mass in the Earth's crust. The ion Ca2+ is also the fifth-most-abundant dissolved ion in seawater by both molarity and mass, after sodium, chloride, magnesium, and sulfate.",
+            symbol: 'Ca',
+            xpos: 2,
+            ypos: 4,
+            shells: [2, 8, 8, 2]
+          },
 
 
     ]
