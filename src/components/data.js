@@ -564,6 +564,56 @@ module.exports = {
             shells: [2, 8, 11, 2]
           },
 
+          {
+            name: 'Chromium',
+            appearance: 'silvery metallic',
+            atomic_mass: 51.99616,
+            boil: 2944,
+            category: 'transition metal',
+            color: null,
+            density: 7.19,
+            discovered_by: 'Louis Nicolas Vauquelin',
+            melt: 2180,
+            molar_heat: 23.35,
+            named_by: null,
+            number: 24,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Chromium',
+            spectral_img: null,
+            summary:
+              'Chromium is a chemical element with symbol Cr and atomic number 24. It is the first element in Group 6. It is a steely-gray, lustrous, hard and brittle metal which takes a high polish, resists tarnishing, and has a high melting point.',
+            symbol: 'Cr',
+            xpos: 6,
+            ypos: 4,
+            shells: [2, 8, 13, 1]
+          },
+
+          {
+            name: 'Manganese',
+            appearance: 'silvery metallic',
+            atomic_mass: 54.9380443,
+            boil: 2334,
+            category: 'transition metal',
+            color: null,
+            density: 7.21,
+            discovered_by: 'Torbern Olof Bergman',
+            melt: 1519,
+            molar_heat: 26.32,
+            named_by: null,
+            number: 25,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Manganese',
+            spectral_img: null,
+            summary:
+              'Manganese is a chemical element with symbol Mn and atomic number 25. It is not found as a free element in nature; it is often found in combination with iron, and in many minerals. Manganese is a metal with important industrial metal alloy uses, particularly in stainless steels.',
+            symbol: 'Mn',
+            xpos: 7,
+            ypos: 4,
+            shells: [2, 8, 13, 2]
+          },
+
 
     ]
 }
