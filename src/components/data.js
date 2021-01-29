@@ -783,6 +783,30 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 18, 4]
           },
+          {
+            name: 'Arsenic',
+            appearance: 'metallic grey',
+            atomic_mass: 74.9215956,
+            boil: null,
+            category: 'metalloid',
+            color: null,
+            density: 5.727,
+            discovered_by: 'Bronze Age',
+            melt: null,
+            molar_heat: 24.64,
+            named_by: null,
+            number: 33,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Arsenic',
+            spectral_img: null,
+            summary:
+              'Arsenic is a chemical element with symbol As and atomic number 33. Arsenic occurs in many minerals, usually in conjunction with sulfur and metals, and also as a pure elemental crystal. Arsenic is a metalloid.',
+            symbol: 'As',
+            xpos: 15,
+            ypos: 4,
+            shells: [2, 8, 18, 5]
+          },
       
 
 
