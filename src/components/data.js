@@ -710,6 +710,55 @@ module.exports = {
             xpos: 11,
             ypos: 4,
             shells: [2, 8, 18, 1]
+          },
+          {
+            name: 'Zinc',
+            appearance: 'silver-gray',
+            atomic_mass: 65.382,
+            boil: 1180,
+            category: 'transition metal',
+            color: null,
+            density: 7.14,
+            discovered_by: 'India',
+            melt: 692.68,
+            molar_heat: 25.47,
+            named_by: null,
+            number: 30,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Zinc',
+            spectral_img: null,
+            summary:
+              'Zinc, in commerce also spelter, is a chemical element with symbol Zn and atomic number 30. It is the first element of group 12 of the periodic table. In some respects zinc is chemically similar to magnesium:its ion is of similar size and its only common oxidation state is +2.',
+            symbol: 'Zn',
+            xpos: 12,
+            ypos: 4,
+            shells: [2, 8, 18, 2]
+          },
+          {
+            name: 'Gallium',
+            appearance: 'silver-white',
+            atomic_mass: 69.7231,
+            boil: 2673,
+            category: 'post-transition metal',
+            color: null,
+            density: 5.91,
+            discovered_by: 'Lecoq de Boisbaudran',
+            melt: 302.9146,
+            molar_heat: 25.86,
+            named_by: null,
+            number: 31,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Gallium',
+            spectral_img: null,
+            summary:
+              'Gallium is a chemical element with symbol Ga and atomic number 31. Elemental gallium does not occur in free form in nature, but as the gallium(III) compounds that are in trace amounts in zinc ores and in bauxite. Gallium is a soft, silvery metal, and elemental gallium is a brittle solid at low temperatures, and melts at 29.76 \u00b0C (85.57 \u00b0F) (slightly above room temperature).',
+            symbol: 'Ga',
+            xpos: 13,
+            ypos: 4,
+            shells: [2, 8, 18, 3]
+          },
       
 
 
