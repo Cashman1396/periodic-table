@@ -663,6 +663,30 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 15, 2]
           },
+          {
+            name: 'Nickel',
+            appearance: 'lustrous, metallic, and silver with a gold tinge',
+            atomic_mass: 58.69344,
+            boil: 3003,
+            category: 'transition metal',
+            color: null,
+            density: 8.908,
+            discovered_by: 'Axel Fredrik Cronstedt',
+            melt: 1728,
+            molar_heat: 26.07,
+            named_by: null,
+            number: 28,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Nickel',
+            spectral_img: null,
+            summary:
+              'Nickel is a chemical element with symbol Ni and atomic number 28. It is a silvery-white lustrous metal with a slight golden tinge. Nickel belongs to the transition metals and is hard and ductile.',
+            symbol: 'Ni',
+            xpos: 10,
+            ypos: 4,
+            shells: [2, 8, 16, 2]
+          },
 
 
     ]
