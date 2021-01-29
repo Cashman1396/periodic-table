@@ -759,6 +759,30 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 18, 3]
           },
+          {
+            name: 'Germanium',
+            appearance: 'grayish-white',
+            atomic_mass: 72.6308,
+            boil: 3106,
+            category: 'metalloid',
+            color: null,
+            density: 5.323,
+            discovered_by: 'Clemens Winkler',
+            melt: 1211.4,
+            molar_heat: 23.222,
+            named_by: null,
+            number: 32,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Germanium',
+            spectral_img: null,
+            summary:
+              'Germanium is a chemical element with symbol Ge and atomic number 32. It is a lustrous, hard, grayish-white metalloid in the carbon group, chemically similar to its group neighbors tin and silicon. Purified germanium is a semiconductor, with an appearance most similar to elemental silicon.',
+            symbol: 'Ge',
+            xpos: 14,
+            ypos: 4,
+            shells: [2, 8, 18, 4]
+          },
       
 
 
