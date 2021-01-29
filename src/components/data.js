@@ -687,6 +687,30 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 16, 2]
           },
+          {
+            name: 'Copper',
+            appearance: 'red-orange metallic luster',
+            atomic_mass: 63.5463,
+            boil: 2835,
+            category: 'transition metal',
+            color: null,
+            density: 8.96,
+            discovered_by: 'Middle East',
+            melt: 1357.77,
+            molar_heat: 24.44,
+            named_by: null,
+            number: 29,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Copper',
+            spectral_img: null,
+            summary:
+              'Copper is a chemical element with symbol Cu (from Latin:cuprum) and atomic number 29. It is a soft, malleable and ductile metal with very high thermal and electrical conductivity. A freshly exposed surface of pure copper has a reddish-orange color.',
+            symbol: 'Cu',
+            xpos: 11,
+            ypos: 4,
+            shells: [2, 8, 18, 1]
+      
 
 
     ]
