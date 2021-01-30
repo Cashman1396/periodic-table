@@ -831,6 +831,30 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 18, 6]
           },
+          {
+            name: 'Bromine',
+            appearance: null,
+            atomic_mass: 79.904,
+            boil: 332.0,
+            category: 'diatomic nonmetal',
+            color: null,
+            density: 3.1028,
+            discovered_by: 'Antoine J\u00e9r\u00f4me Balard',
+            melt: 265.8,
+            molar_heat: null,
+            named_by: null,
+            number: 35,
+            period: 4,
+            phase: 'Liquid',
+            source: 'https://en.wikipedia.org/wiki/Bromine',
+            spectral_img: null,
+            summary:
+              'Bromine (from Ancient Greek:\u03b2\u03c1\u1ff6\u03bc\u03bf\u03c2, br\u00f3mos, meaning "stench") is a chemical element with symbol Br, and atomic number 35. It is a halogen. The element was isolated independently by two chemists, Carl Jacob L\u00f6wig and Antoine Jerome Balard, in 1825\u20131826.',
+            symbol: 'Br',
+            xpos: 17,
+            ypos: 4,
+            shells: [2, 8, 18, 7]
+          },
       
 
 
