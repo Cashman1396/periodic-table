@@ -880,6 +880,30 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 18, 8]
           },
+          {
+            name: 'Rubidium',
+            appearance: 'grey white',
+            atomic_mass: 85.46783,
+            boil: 961,
+            category: 'alkali metal',
+            color: null,
+            density: 1.532,
+            discovered_by: 'Robert Bunsen',
+            melt: 312.45,
+            molar_heat: 31.06,
+            named_by: null,
+            number: 37,
+            period: 5,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Rubidium',
+            spectral_img: null,
+            summary:
+              'Rubidium is a chemical element with symbol Rb and atomic number 37. Rubidium is a soft, silvery-white metallic element of the alkali metal group, with an atomic mass of 85.4678. Elemental rubidium is highly reactive, with properties similar to those of other alkali metals, such as very rapid oxidation in air.',
+            symbol: 'Rb',
+            xpos: 1,
+            ypos: 5,
+            shells: [2, 8, 18, 8, 1]
+          },
       
 
 
