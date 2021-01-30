@@ -855,6 +855,31 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 18, 7]
           },
+          {
+            name: 'Krypton',
+            appearance:
+              'colorless gas, exhibiting a whitish glow in a high electric field',
+            atomic_mass: 83.7982,
+            boil: 119.93,
+            category: 'noble gas',
+            color: null,
+            density: 3.749,
+            discovered_by: 'William Ramsay',
+            melt: 115.78,
+            molar_heat: null,
+            named_by: null,
+            number: 36,
+            period: 4,
+            phase: 'Gas',
+            source: 'https://en.wikipedia.org/wiki/Krypton',
+            spectral_img: 'https://en.wikipedia.org/wiki/File:Krypton_Spectrum.jpg',
+            summary:
+              'Krypton (from Greek:\u03ba\u03c1\u03c5\u03c0\u03c4\u03cc\u03c2 kryptos "the hidden one") is a chemical element with symbol Kr and atomic number 36. It is a member of group 18 (noble gases) elements. A colorless, odorless, tasteless noble gas, krypton occurs in trace amounts in the atmosphere, is isolated by fractionally distilling liquefied air, and is often used with other rare gases in fluorescent lamps.',
+            symbol: 'Kr',
+            xpos: 18,
+            ypos: 4,
+            shells: [2, 8, 18, 8]
+          },
       
 
 
