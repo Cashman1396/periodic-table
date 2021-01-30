@@ -807,6 +807,30 @@ module.exports = {
             ypos: 4,
             shells: [2, 8, 18, 5]
           },
+          {
+            name: 'Selenium',
+            appearance: 'black, red, and gray (not pictured) allotropes',
+            atomic_mass: 78.9718,
+            boil: 958,
+            category: 'polyatomic nonmetal',
+            color: null,
+            density: 4.81,
+            discovered_by: 'J\u00f6ns Jakob Berzelius',
+            melt: 494,
+            molar_heat: 25.363,
+            named_by: null,
+            number: 34,
+            period: 4,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Selenium',
+            spectral_img: null,
+            summary:
+              'Selenium is a chemical element with symbol Se and atomic number 34. It is a nonmetal with properties that are intermediate between those of its periodic table column-adjacent chalcogen elements sulfur and tellurium. It rarely occurs in its elemental state in nature, or as pure ore compounds.',
+            symbol: 'Se',
+            xpos: 16,
+            ypos: 4,
+            shells: [2, 8, 18, 6]
+          },
       
 
 
