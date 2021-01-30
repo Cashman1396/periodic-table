@@ -904,7 +904,30 @@ module.exports = {
             ypos: 5,
             shells: [2, 8, 18, 8, 1]
           },
-      
+          {
+            name: 'Strontium',
+            appearance: null,
+            atomic_mass: 87.621,
+            boil: 1650,
+            category: 'alkaline earth metal',
+            color: null,
+            density: 2.64,
+            discovered_by: 'William Cruickshank (chemist)',
+            melt: 1050,
+            molar_heat: 26.4,
+            named_by: null,
+            number: 38,
+            period: 5,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Strontium',
+            spectral_img: null,
+            summary:
+              'Strontium is a chemical element with symbol Sr and atomic number 38. An alkaline earth metal, strontium is a soft silver-white or yellowish metallic element that is highly reactive chemically. The metal turns yellow when it is exposed to air.',
+            symbol: 'Sr',
+            xpos: 2,
+            ypos: 5,
+            shells: [2, 8, 18, 8, 2]
+          },
 
 
     ]
