@@ -928,6 +928,30 @@ module.exports = {
             ypos: 5,
             shells: [2, 8, 18, 8, 2]
           },
+          {
+            name: 'Yttrium',
+            appearance: 'silvery white',
+            atomic_mass: 88.905842,
+            boil: 3203,
+            category: 'transition metal',
+            color: null,
+            density: 4.472,
+            discovered_by: 'Johan Gadolin',
+            melt: 1799,
+            molar_heat: 26.53,
+            named_by: null,
+            number: 39,
+            period: 5,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Yttrium',
+            spectral_img: null,
+            summary:
+              'Yttrium is a chemical element with symbol Y and atomic number 39. It is a silvery-metallic transition metal chemically similar to the lanthanides and it has often been classified as a "rare earth element". Yttrium is almost always found combined with the lanthanides in rare earth minerals and is never found in nature as a free element.',
+            symbol: 'Y',
+            xpos: 3,
+            ypos: 5,
+            shells: [2, 8, 18, 9, 2]
+          },
 
 
     ]

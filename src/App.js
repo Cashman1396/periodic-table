@@ -1,5 +1,5 @@
 import React, { Component, Fragment} from 'react';
-import {elementals } from './data';
+import { elementals } from './components/data';
 import Elemental from './components/Elemental'
 
 class App extends Component {
@@ -14,7 +14,7 @@ class App extends Component {
 
   }
 
-  close = () => {
+  closeInfo = () => {
     this.setState({ showInfo: false})
   }
 
@@ -40,6 +40,28 @@ class App extends Component {
           <Elemental showInfo={this.showInfo} num="2" />
           <Elemental showInfo={this.showInfo} num="3" />
           <Elemental showInfo={this.showInfo} num="4" />
+          {/* Information Table */}
+          {this.state.showInfo ? (
+            <Fragment>
+              <div id="element-box" className={`${category}`}>
+                <div className="number">{number}</div>
+                <div className="symbol">{symbol}</div>
+                <div className="element-name">{name}</div>
+              </div>
+
+              <div id="information">
+                <div
+                  onClick={this.closeInfo}
+                  className="close-button"
+                  title="Close">
+                  Close [&times;]
+                </div>
+                <div></div>
+              </div>
+            </Fragment>
+          ): (
+            ''
+          )}
 
         </div>
       </div>
