@@ -49,25 +49,43 @@ class App extends Component {
                 <div className="element-name">{name}</div>
               </div>
 
-              <div id="information">
+              <div id="ele-informatiom">
                 <div
                   onClick={this.closeInfo}
                   className="close-button"
                   title="Close">
                   Close [&times;]
                 </div>
-                <div></div>
-              </div>
-            </Fragment>
-          ): (
+                <div>
+                  <h1 className="big_title">{name}</h1>
+                  <span className={`categ-name ${category}`}>{category}</span>
+                  {appearance ? (
+                    <div className="appearance">
+                      <strong>Appearance:</strong> {appearance}
+                  </div>
+          ) : (
             ''
           )}
+          <div className="atom_info">
+            <span>Atomic Mass: {atomic_mass} | </span>
+            <span>Density: {density}</span>
+          {molar_heat ? <span> | Molar Heat: {molar_heat}</span> : ''}
+          {melt ? <span> | Melt: {melt}K</span> : ''}
+          {boil ? <span> | Boil: {boil}K</span> : ''}
+          </div>
+          <div>
+            {summary} ...{' '}
+            <a target="_blank" href={source}>
+              Link
+            </a>
+          </div>
 
         </div>
       </div>
+      
     )
   }
 
 }
 
-export default App
+export default App;
