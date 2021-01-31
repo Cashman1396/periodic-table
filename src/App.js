@@ -63,6 +63,7 @@ class App extends Component {
                     <div className="appearance">
                       <strong>Appearance:</strong> {appearance}
                   </div>
+                
           ) : (
             ''
           )}
@@ -79,13 +80,24 @@ class App extends Component {
               Link
             </a>
           </div>
-
         </div>
       </div>
-      
+    </Fragment>
+        ) : ( 
+          ''
+        )}
+          <Elemental showInfo={this.showInfo} num="5" />
+          <Elemental showInfo={this.showInfo} num="6" />
+          <Elemental showInfo={this.showInfo} num="7" />
+          <Elemental showInfo={this.showInfo} num="8" />
+          <Elemental showInfo={this.showInfo} num="9" />
+
+
+        </div>
+        <p className="center footer">Made by Chris Ashmn</p>
+      </div>
     )
   }
-
 }
 
 export default App;
