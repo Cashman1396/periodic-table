@@ -29,7 +29,7 @@ class Elemental extends Component {
             className = {`element element-${num} ${element.category} ${this.state.hover ? 'active' : ''}`}>
                 <div className="number">{element.number}</div>
                 <div className="symbol">{element.symbol}</div>
-                <div className="elementname">{element.name}</div>
+                <div className="element-name">{element.name}</div>
             </div>
         )
     }

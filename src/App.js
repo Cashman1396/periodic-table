@@ -26,11 +26,11 @@ class App extends Component {
         <h1>The Periodic Table of Elements</h1>
         <p className="">
           Created By {' '}
-          <a href="chris-ashman.com" target="_blank">
+          <a href="https://chris-ashman.com" target="_blank">
             Chris Ashman
           </a>{' '}
           /{' '}
-          <a href="#" target="_blank">
+          <a href="https://github.com/Cashman1396/periodic-table" target="_blank">
             Check out the Source Code
           </a>
         </p>
@@ -53,7 +53,7 @@ class App extends Component {
                 <div
                   onClick={this.closeInfo}
                   className="close-button"
-                  title="Close">
+                  title="Close Info">
                   Close [&times;]
                 </div>
                 <div>
@@ -91,6 +91,22 @@ class App extends Component {
           <Elemental showInfo={this.showInfo} num="7" />
           <Elemental showInfo={this.showInfo} num="8" />
           <Elemental showInfo={this.showInfo} num="9" />
+          <Elemental showInfo={this.showInfo} num="10" />
+          <Elemental showInfo={this.showInfo} num="11" />
+          <Elemental showInfo={this.showInfo} num="12" />
+          <Elemental showInfo={this.showInfo} num="13" />
+          <Elemental showInfo={this.showInfo} num="14" />
+          <Elemental showInfo={this.showInfo} num="15" />
+          <Elemental showInfo={this.showInfo} num="16" />
+          <Elemental showInfo={this.showInfo} num="17" />
+          <Elemental showInfo={this.showInfo} num="18" />
+          <Elemental showInfo={this.showInfo} num="19" />
+          <Elemental showInfo={this.showInfo} num="20" />
+          <Elemental showInfo={this.showInfo} num="21" />
+          <Elemental showInfo={this.showInfo} num="22" />
+          <Elemental showInfo={this.showInfo} num="23" />
+          <Elemental showInfo={this.showInfo} num="24" />
+          <Elemental showInfo={this.showInfo} num="25" />
 
 
         </div>
