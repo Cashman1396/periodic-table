@@ -49,11 +49,11 @@ class App extends Component {
                 <div className="element-name">{name}</div>
               </div>
 
-              <div id="ele-informatiom">
+              <div id="ele-information">
                 <div
                   onClick={this.closeInfo}
                   className="close-button"
-                  title="Close Info">
+                  title="Close">
                   Close [&times;]
                 </div>
                 <div>
@@ -107,6 +107,18 @@ class App extends Component {
           <Elemental showInfo={this.showInfo} num="23" />
           <Elemental showInfo={this.showInfo} num="24" />
           <Elemental showInfo={this.showInfo} num="25" />
+          <Elemental showInfo={this.showInfo} num="25" />
+          <Elemental showInfo={this.showInfo} num="26" />
+          <Elemental showInfo={this.showInfo} num="27" />
+          <Elemental showInfo={this.showInfo} num="28" />
+          <Elemental showInfo={this.showInfo} num="29" />
+          <Elemental showInfo={this.showInfo} num="30" />
+          <Elemental showInfo={this.showInfo} num="31" />
+          <Elemental showInfo={this.showInfo} num="32" />
+          <Elemental showInfo={this.showInfo} num="33" />
+          <Elemental showInfo={this.showInfo} num="34" />
+          <Elemental showInfo={this.showInfo} num="35" />
+          <Elemental showInfo={this.showInfo} num="36" />
 
 
         </div>
