@@ -119,10 +119,13 @@ class App extends Component {
           <Elemental showInfo={this.showInfo} num="34" />
           <Elemental showInfo={this.showInfo} num="35" />
           <Elemental showInfo={this.showInfo} num="36" />
+          <Elemental showInfo={this.showInfo} num="37" />
+          <Elemental showInfo={this.showInfo} num="38" />
+          <Elemental showInfo={this.showInfo} num="39" />
 
 
         </div>
-        <p className="center footer">Made by Chris Ashmn</p>
+        <p className="center footer">Made by Chris Ashman @ 2021</p>
       </div>
     )
   }

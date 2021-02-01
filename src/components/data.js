@@ -952,6 +952,30 @@ module.exports = {
             ypos: 5,
             shells: [2, 8, 18, 9, 2]
           },
+          {
+            name: 'Zirconium',
+            appearance: 'silvery white',
+            atomic_mass: 91.2242,
+            boil: 4650,
+            category: 'transition metal',
+            color: null,
+            density: 6.52,
+            discovered_by: 'Martin Heinrich Klaproth',
+            melt: 2128,
+            molar_heat: 25.36,
+            named_by: null,
+            number: 40,
+            period: 5,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Zirconium',
+            spectral_img: null,
+            summary:
+              'Zirconium is a chemical element with symbol Zr and atomic number 40. The name of zirconium is taken from the name of the mineral zircon, the most important source of zirconium. The word zircon comes from the Persian word zargun \u0632\u0631\u06af\u0648\u0646, meaning "gold-colored".',
+            symbol: 'Zr',
+            xpos: 4,
+            ypos: 5,
+            shells: [2, 8, 18, 10, 2]
+          },
 
 
     ]
