@@ -1264,6 +1264,30 @@ module.exports = {
             ypos: 5,
             shells: [2, 8, 18, 18, 6]
           },
+          {
+            name: 'Iodine',
+            appearance: 'lustrous metallic gray, violet as a gas',
+            atomic_mass: 126.904473,
+            boil: 457.4,
+            category: 'diatomic nonmetal',
+            color: null,
+            density: 4.933,
+            discovered_by: 'Bernard Courtois',
+            melt: 386.85,
+            molar_heat: null,
+            named_by: null,
+            number: 53,
+            period: 5,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Iodine',
+            spectral_img: null,
+            summary:
+              'Iodine is a chemical element with symbol I and atomic number 53. The name is from Greek \u1f30\u03bf\u03b5\u03b9\u03b4\u03ae\u03c2 ioeid\u0113s, meaning violet or purple, due to the color of iodine vapor. Iodine and its compounds are primarily used in nutrition, and industrially in the production of acetic acid and certain polymers.',
+            symbol: 'I',
+            xpos: 17,
+            ypos: 5,
+            shells: [2, 8, 18, 18, 7]
+          },
 
 
     ]
