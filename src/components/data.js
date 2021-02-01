@@ -976,6 +976,30 @@ module.exports = {
             ypos: 5,
             shells: [2, 8, 18, 10, 2]
           },
+          {
+            name: 'Niobium',
+            appearance: 'gray metallic, bluish when oxidized',
+            atomic_mass: 92.906372,
+            boil: 5017,
+            category: 'transition metal',
+            color: null,
+            density: 8.57,
+            discovered_by: 'Charles Hatchett',
+            melt: 2750,
+            molar_heat: 24.6,
+            named_by: null,
+            number: 41,
+            period: 5,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Niobium',
+            spectral_img: null,
+            summary:
+              'Niobium, formerly columbium, is a chemical element with symbol Nb (formerly Cb) and atomic number 41. It is a soft, grey, ductile transition metal, which is often found in the pyrochlore mineral, the main commercial source for niobium, and columbite. The name comes from Greek mythology:Niobe, daughter of Tantalus since it is so similar to tantalum.',
+            symbol: 'Nb',
+            xpos: 5,
+            ypos: 5,
+            shells: [2, 8, 18, 12, 1]
+          },
 
 
     ]
