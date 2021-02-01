@@ -1024,6 +1024,30 @@ module.exports = {
             ypos: 5,
             shells: [2, 8, 18, 13, 1]
           },
+          {
+            name: 'Technetium',
+            appearance: 'shiny gray metal',
+            atomic_mass: 98,
+            boil: 4538,
+            category: 'transition metal',
+            color: null,
+            density: 11,
+            discovered_by: 'Emilio Segr\u00e8',
+            melt: 2430,
+            molar_heat: 24.27,
+            named_by: null,
+            number: 43,
+            period: 5,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Technetium',
+            spectral_img: null,
+            summary:
+              'Technetium (/t\u025bk\u02c8ni\u02d0\u0283i\u0259m/) is a chemical element with symbol Tc and atomic number 43. It is the element with the lowest atomic number in the periodic table that has no stable isotopes:every form of it is radioactive. Nearly all technetium is produced synthetically, and only minute amounts are found in nature.',
+            symbol: 'Tc',
+            xpos: 7,
+            ypos: 5,
+            shells: [2, 8, 18, 13, 2]
+          },
 
 
     ]
