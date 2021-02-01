@@ -1192,6 +1192,30 @@ module.exports = {
             ypos: 5,
             shells: [2, 8, 18, 18, 3]
           },
+          {
+            name: 'Tin',
+            appearance: 'silvery-white (beta, \u03b2) or gray (alpha, \u03b1)',
+            atomic_mass: 118.7107,
+            boil: 2875,
+            category: 'post-transition metal',
+            color: null,
+            density: 7.365,
+            discovered_by: 'unknown, before 3500 BC',
+            melt: 505.08,
+            molar_heat: 27.112,
+            named_by: null,
+            number: 50,
+            period: 5,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Tin',
+            spectral_img: null,
+            summary:
+              'Tin is a chemical element with the symbol Sn (for Latin:stannum) and atomic number 50. It is a main group metal in group 14 of the periodic table. Tin shows a chemical similarity to both neighboring group-14 elements, germanium and lead, and has two possible oxidation states, +2 and the slightly more stable +4.',
+            symbol: 'Sn',
+            xpos: 14,
+            ypos: 5,
+            shells: [2, 8, 18, 18, 4]
+          },
 
 
     ]
