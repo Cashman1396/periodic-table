@@ -1240,6 +1240,30 @@ module.exports = {
             ypos: 5,
             shells: [2, 8, 18, 18, 5]
           },
+          {
+            name: 'Tellurium',
+            appearance: null,
+            atomic_mass: 127.603,
+            boil: 1261,
+            category: 'metalloid',
+            color: null,
+            density: 6.24,
+            discovered_by: 'Franz-Joseph M\u00fcller von Reichenstein',
+            melt: 722.66,
+            molar_heat: 25.73,
+            named_by: null,
+            number: 52,
+            period: 5,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Tellurium',
+            spectral_img: null,
+            summary:
+              'Tellurium is a chemical element with symbol Te and atomic number 52. It is a brittle, mildly toxic, rare, silver-white metalloid. Tellurium is chemically related to selenium and sulfur.',
+            symbol: 'Te',
+            xpos: 16,
+            ypos: 5,
+            shells: [2, 8, 18, 18, 6]
+          },
 
 
     ]
