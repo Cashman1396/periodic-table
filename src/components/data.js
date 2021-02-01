@@ -1000,6 +1000,30 @@ module.exports = {
             ypos: 5,
             shells: [2, 8, 18, 12, 1]
           },
+          {
+            name: 'Molybdenum',
+            appearance: 'gray metallic',
+            atomic_mass: 95.951,
+            boil: 4912,
+            category: 'transition metal',
+            color: null,
+            density: 10.28,
+            discovered_by: 'Carl Wilhelm Scheele',
+            melt: 2896,
+            molar_heat: 24.06,
+            named_by: null,
+            number: 42,
+            period: 5,
+            phase: 'Solid',
+            source: 'https://en.wikipedia.org/wiki/Molybdenum',
+            spectral_img: null,
+            summary:
+              'Molybdenum is a chemical element with symbol Mo and atomic number 42. The name is from Neo-Latin molybdaenum, from Ancient Greek \u039c\u03cc\u03bb\u03c5\u03b2\u03b4\u03bf\u03c2 molybdos, meaning lead, since its ores were confused with lead ores. Molybdenum minerals have been known throughout history, but the element was discovered (in the sense of differentiating it as a new entity from the mineral salts of other metals) in 1778 by Carl Wilhelm Scheele.',
+            symbol: 'Mo',
+            xpos: 6,
+            ypos: 5,
+            shells: [2, 8, 18, 13, 1]
+          },
 
 
     ]
