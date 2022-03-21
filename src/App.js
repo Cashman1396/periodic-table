@@ -122,7 +122,28 @@ class App extends Component {
           <Elemental showInfo={this.showInfo} num="37" />
           <Elemental showInfo={this.showInfo} num="38" />
           <Elemental showInfo={this.showInfo} num="39" />
-
+          <Elemental showInfo={this.showInfo} num="40" />
+          <Elemental showInfo={this.showInfo} num="41" />
+          <Elemental showInfo={this.showInfo} num="42" />
+          <Elemental showInfo={this.showInfo} num="43" />
+          <Elemental showInfo={this.showInfo} num="44" />
+          <Elemental showInfo={this.showInfo} num="45" />
+          <Elemental showInfo={this.showInfo} num="46" />
+          <Elemental showInfo={this.showInfo} num="47" />
+          <Elemental showInfo={this.showInfo} num="48" />
+          <Elemental showInfo={this.showInfo} num="49" />
+          <Elemental showInfo={this.showInfo} num="50" />
+          <Elemental showInfo={this.showInfo} num="51" />
+          <Elemental showInfo={this.showInfo} num="52" />
+          <Elemental showInfo={this.showInfo} num="53" />
+          <Elemental showInfo={this.showInfo} num="54" />
+          <Elemental showInfo={this.showInfo} num="55" />
+          <Elemental showInfo={this.showInfo} num="56" />
+          <Elemental showInfo={this.showInfo} num="57" />
+          <Elemental showInfo={this.showInfo} num="58" />
+          <Elemental showInfo={this.showInfo} num="59" />
+          <Elemental showInfo={this.showInfo} num="60" />
+          
 
         </div>
         <p className="center footer">Made by Chris Ashman @ 2021</p>
